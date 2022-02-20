@@ -1,0 +1,35 @@
+body{
+    color: #000000;
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+#i1{
+    height: 200px;
+    float: left;
+}
+
+#i2{
+    height: 200px;
+   float: right;
+}
+
+.img1{
+    height: 200px;
+}
+
+#btn1{
+    width: 200px;
+    height: 100px;
+    font-size: 64px;
+    color: #000000;
+    background-color: rgba(0, 0, 0, 0);
+    border-color: rgba(0, 0, 0, 0);
+}
+
+#s1 , #v1{
+    background-color: #0000008a;
+    border: #000000;
+    font-size: 50px;
+    height: 200px;
+    width: 200px;
+}
